@@ -1,0 +1,24 @@
+
+.title_home {
+    font-size: 4rem;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+
+.body-font {
+    font-family: var(--body-font);
+    font-size: 18px;
+    font-weight: normal;
+}
+
+  
+.card-img-top-vio{
+    width: 386.66px;
+    height:386.66px;
+}
+
+.px-lg-5{
+    padding-bottom: 4rem;
+    margin-top: 2rem;
+}
